@@ -106,7 +106,7 @@
 ._形状 {
 }
 ._28号字_页面备注信息及列表的表头说明文字__） {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFang-SC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -126,28 +126,28 @@
   color:#FFFFFF;
 }
 ._32号字_单行列表内，右方操作说明的文字__） {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFang-SC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:16px;
   text-align:left;
 }
 ._36号字_顶部标题、大按钮、弹窗提示主标题_ {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFang-SC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFang-SC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:15px;
   text-align:left;
 }
 ._次按钮（动作列表） {
-  font-family:'Heiti SC Regular', 'Heiti SC';
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:18px;
@@ -155,7 +155,7 @@
   text-align:center;
 }
 ._退出按钮（动作列表） {
-  font-family:'Heiti SC Regular', 'Heiti SC';
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:18px;
